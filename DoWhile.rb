@@ -1,10 +1,10 @@
-#criar um contador
-# precisar de uma variavel
+#crear un contador
+# necesitar una variable
 count = 0
-loop do #loop de execução
+loop do #bucle de ejecución
   puts count
-  if count == 150 # condição -> se (if) contador não for igual a 150
+  if count == 150 # condición -> si contador no es igual a 150
     break
   end
-  count += 1 #incremento -> somar 1
+  count += 1 #incremento -> sumar 1
 end
